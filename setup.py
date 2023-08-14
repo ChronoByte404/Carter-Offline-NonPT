@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     # Here is the module name.
-    name="Carter-Offline",
+    name="Carter-Offline-NoPT",
 
     # version of the module
-    version="2.0.26",
+    version="1.0.1",
 
     # Name of Author
     author="Cipher58",
